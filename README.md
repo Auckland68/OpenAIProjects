@@ -1,6 +1,7 @@
 # OpenAIProjects using ChapGPT and DAL-LE 
 Based on the course by Jose Portilla 
-Not all notebooks uploaded
+
+Note: Not all notebooks uploaded
 
 * Notebook 1 - General Connection 
 * Notebook 2 - NLP to SQL Queries
